@@ -9,8 +9,6 @@
     - [On-Chain Governance Example](#on-chain-governance-example)
   - [Thank you!](#thank-you)
 
-[You can also see the python/brownie version of this here.](https://github.com/brownie-mix/dao-mix)
-
 <!-- GETTING STARTED -->
 # Getting Started  
 
