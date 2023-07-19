@@ -1,4 +1,4 @@
-# DAO Template
+# DAO Template.
 
 <div id="top"></div>
 
